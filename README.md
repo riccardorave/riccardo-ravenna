@@ -29,10 +29,6 @@ Attualmente sto studiando Devexpress ASP.NET"
 
 ### 📊 Statistiche GitHub
 
-<p align="left">
-  <!-- Scheda Statistiche Generali -->
-  <img src="https://github-readme-stats.vercel.app/api?username=riccardorave&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  
-  <!-- Scheda Linguaggi Più Usati -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardorave&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riccardorave&theme=radical&hide_border=true" alt="riccardorave streak" />
 </p>
