@@ -3,15 +3,15 @@
 # Ciao! Sono Riccardo 👋
 
 ### 🚀 Developer 
-Attualmente sto studiando Devexpress e ."
+Attualmente sto studiando Devexpress ASP.NET"
 
-- 🔭 Sto lavorando a un **[Gestionale web]**
+- 🔭 Sto lavorando a un **[Gestionale web e desktop]**
 - 📫 Come contattarmi: **riccardor404@gmail.com  3703140367**
 
 ### 🛠️ Linguaggi e Strumenti
 
 **Linguaggi**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -20,8 +20,11 @@ Attualmente sto studiando Devexpress e ."
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Tools & Database**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### 📊 Statistiche GitHub
 
