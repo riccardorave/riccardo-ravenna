@@ -1,5 +1,3 @@
-# Riccardo Ravenna
-
 # Ciao! Sono Riccardo 👋
 
 ### 🚀 Developer 
