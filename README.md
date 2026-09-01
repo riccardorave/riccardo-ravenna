@@ -34,6 +34,5 @@ Attualmente sto studiando Devexpress ASP.NET"
   <img src="https://github-readme-stats.vercel.app/api?username=riccardorave&show_icons=true&theme=radical&hide_border=true" width="48%" />
   
   <!-- Scheda Linguaggi Più Usati -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-    username=riccardorave&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardorave&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
