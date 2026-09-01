@@ -16,6 +16,7 @@ Attualmente sto studiando Devexpress ASP.NET"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Framework & Librerie**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -30,8 +31,9 @@ Attualmente sto studiando Devexpress ASP.NET"
 
 <p align="left">
   <!-- Scheda Statistiche Generali -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riccardorave&show_icons=true&theme=radical&hide_border=true" width="48%" />
   
   <!-- Scheda Linguaggi Più Usati -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
+    username=riccardorave&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
